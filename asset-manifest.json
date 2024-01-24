@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/visualization-gtfs/static/css/main.31d6cfe0.css",
+    "main.js": "/visualization-gtfs/static/js/main.bab851c3.js",
+    "index.html": "/visualization-gtfs/index.html",
+    "main.bab851c3.js.map": "/visualization-gtfs/static/js/main.bab851c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bab851c3.js"
+  ]
+}
